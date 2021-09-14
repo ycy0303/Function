@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/large"
+        android:title="放大">
+    </item>
+    <item android:id="@+id/small"
+        android:title="缩小"></item>
+</menu>
